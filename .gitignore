@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+*.pptx
+*.pdf
+*.xlsx
+*.xls
+
+*.csv
+!moy_three_class_test.csv
